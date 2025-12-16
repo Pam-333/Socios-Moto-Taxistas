@@ -1,0 +1,21 @@
+{
+  "name": "Datos de Motocicleta",
+  "short_name": "PAM",
+  "description": "Aplicación para registrar datos de motocicletas",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#e9f2ff",
+  "theme_color": "#162ca7",
+  "icons": [
+    {
+      "src": "img/icono.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icono.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
